@@ -36,14 +36,7 @@ data/processed/*
 *.xlsx
 *.xls
 
-# Output files
-output/figures/*
-output/reports/*
-!output/figures/.gitkeep
-!output/reports/.gitkeep
-*.png
-*.jpg
-*.pdf
+
 
 # IDE
 .idea/
@@ -81,3 +74,5 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+*.zip
