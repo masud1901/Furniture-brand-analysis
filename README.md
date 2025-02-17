@@ -32,20 +32,26 @@ Our analysis reveals a predominantly young, professionally active consumer base:
 - **Income Levels**: Significant middle-income representation (74% in BDT 25,000-50,000 range), crucial for pricing strategy
 
 <div align="center">
-  <img src="output/figures/demographics/age_distribution.png" width="45%" alt="Age Distribution">
-  <img src="output/figures/demographics/gender_distribution.png" width="45%" alt="Gender Distribution">
+  <img src="output/figures/demographics/age_distribution.png" width="80%" alt="Age Distribution">
+</div>
+
+<div align="center">
+  <img src="output/figures/demographics/gender_distribution.png" width="80%" alt="Gender Distribution">
 </div>
 
 Our occupation analysis reveals an interesting mix of traditional and emerging professional categories:
 <div align="center">
-  <img src="output/figures/demographics/occupation_distribution.png" width="45%" alt="Occupation Distribution">
-  <img src="output/figures/demographics/income_distribution.png" width="45%" alt="Income Distribution">
+  <img src="output/figures/demographics/occupation_distribution.png" width="80%" alt="Occupation Distribution">
+</div>
+
+<div align="center">
+  <img src="output/figures/demographics/income_distribution.png" width="80%" alt="Income Distribution">
 </div>
 
 #### Demographic Cross-Analysis
 The correlation between age and income (r = 0.309, p = 0.023) suggests a significant relationship between career progression and purchasing power:
 <div align="center">
-  <img src="output/figures/demographics/income_distribution_by_occupation.png" width="45%" alt="Income by Occupation">
+  <img src="output/figures/demographics/income_distribution_by_occupation.png" width="90%" alt="Income by Occupation">
 </div>
 
 ### Consumer Preferences
@@ -57,7 +63,7 @@ Our analysis reveals a clear shift towards contemporary aesthetics:
 - Traditional designs (16.7%) maintain a significant niche market
 
 <div align="center">
-  <img src="output/figures/preferences/furniture_type_preferences.png" width="60%" alt="Furniture Type Preferences">
+  <img src="output/figures/preferences/furniture_type_preferences.png" width="90%" alt="Furniture Type Preferences">
 </div>
 
 #### Purchase Decision Factors & Room Priorities
@@ -68,8 +74,11 @@ Key decision factors reflect a value-conscious market:
 
 Living/Drawing Room emerges as the top priority (53.7%), followed by Bedroom (35.2%):
 <div align="center">
-  <img src="output/figures/preferences/important_purchase_factors.png" width="45%" alt="Important Purchase Factors">
-  <img src="output/figures/preferences/room_priorities.png" width="45%" alt="Room Priorities">
+  <img src="output/figures/preferences/important_purchase_factors.png" width="80%" alt="Important Purchase Factors">
+</div>
+
+<div align="center">
+  <img src="output/figures/preferences/room_priorities.png" width="80%" alt="Room Priorities">
 </div>
 
 #### Shopping Behavior
@@ -79,7 +88,7 @@ Consumer channel preferences show strong traditional retail influence:
 - Seasonal peaks observed during mid-year (29.6%) and year-start (27.8%)
 
 <div align="center">
-  <img src="output/figures/preferences/shopping_preferences.png" width="60%" alt="Shopping Preferences">
+  <img src="output/figures/preferences/shopping_preferences.png" width="90%" alt="Shopping Preferences">
 </div>
 
 ### Isho Brand Analysis
@@ -91,8 +100,11 @@ Strong brand recognition metrics:
 - Strong association with modern design and quality
 
 <div align="center">
-  <img src="output/figures/brands/brand_familiarity.png" width="45%" alt="Brand Familiarity">
-  <img src="output/figures/brands/recommendation_distribution.png" width="45%" alt="Recommendation Distribution">
+  <img src="output/figures/brands/brand_familiarity.png" width="80%" alt="Brand Familiarity">
+</div>
+
+<div align="center">
+  <img src="output/figures/brands/recommendation_distribution.png" width="80%" alt="Recommendation Distribution">
 </div>
 
 #### Brand Associations & Customer Feedback
@@ -102,8 +114,11 @@ Key brand perceptions:
 - Strong positive associations among buyers
 
 <div align="center">
-  <img src="output/figures/brands/isho_brand_associations_(buyers).png" width="45%" alt="Brand Associations (Buyers)">
-  <img src="output/figures/brands/reasons_for_not_purchasing_from_isho.png" width="45%" alt="Reasons for Not Purchasing">
+  <img src="output/figures/brands/isho_brand_associations_(buyers).png" width="90%" alt="Brand Associations (Buyers)">
+</div>
+
+<div align="center">
+  <img src="output/figures/brands/reasons_for_not_purchasing_from_isho.png" width="90%" alt="Reasons for Not Purchasing">
 </div>
 
 ## 🔍 Advanced Statistical Analysis
@@ -114,15 +129,21 @@ Statistical significance found in key relationships:
 - Brand familiarity-recommendation correlation (r = 0.196)
 
 <div align="center">
-  <img src="output/figures/statistical/correlation_matrix.png" width="45%" alt="Correlation Matrix">
-  <img src="output/figures/advanced/correlation_heatmaps.png" width="45%" alt="Correlation Heatmaps">
+  <img src="output/figures/statistical/correlation_matrix.png" width="90%" alt="Correlation Matrix">
+</div>
+
+<div align="center">
+  <img src="output/figures/advanced/correlation_heatmaps.png" width="90%" alt="Correlation Heatmaps">
 </div>
 
 ### Statistical Modeling
 Income distribution shows positive skewness (2.067), indicating opportunity in premium segments:
 <div align="center">
-  <img src="output/figures/statistical/age_income_scatter.png" width="45%" alt="Age-Income Relationship">
-  <img src="output/figures/statistical/brand_metrics_distribution.png" width="45%" alt="Brand Metrics">
+  <img src="output/figures/statistical/age_income_scatter.png" width="80%" alt="Age-Income Relationship">
+</div>
+
+<div align="center">
+  <img src="output/figures/statistical/brand_metrics_distribution.png" width="80%" alt="Brand Metrics">
 </div>
 
 ### Advanced Analytics
@@ -131,9 +152,15 @@ Bootstrap analysis confirms reliability of findings:
 - 95% Confidence Interval: [1.02, 2.15]
 
 <div align="center">
-  <img src="output/figures/advanced/bootstrap_recommendation_score.png" width="30%" alt="Bootstrap Analysis">
-  <img src="output/figures/advanced/pca_scree_plot.png" width="30%" alt="PCA Analysis">
-  <img src="output/figures/advanced/kmeans_elbow.png" width="30%" alt="K-means Clustering">
+  <img src="output/figures/advanced/bootstrap_recommendation_score.png" width="80%" alt="Bootstrap Analysis">
+</div>
+
+<div align="center">
+  <img src="output/figures/advanced/pca_scree_plot.png" width="80%" alt="PCA Analysis">
+</div>
+
+<div align="center">
+  <img src="output/figures/advanced/kmeans_elbow.png" width="80%" alt="K-means Clustering">
 </div>
 
 ## 💡 Key Insights & Recommendations
